@@ -1,4 +1,4 @@
-# e_commerce
+# Study Manager
 
 A new Flutter project.
 
